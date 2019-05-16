@@ -1,0 +1,65 @@
+body{
+  background: url("../slike/bg.jpg"); 
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#glavni{
+ margin: 100px auto;
+  width: 482px;
+  height: 482px;
+  opacity: 0.75;
+ 
+
+  background: url("../slike/maze.png"); 
+   background-size: cover;
+}
+#naslov{
+	margin: 30px auto;
+	text-align: center;
+	font-family: cursive;
+	font-size: 80px;
+	color: #3333cc;
+}
+#but{
+	font-family: cursive;
+	  background-color: #3333cc;
+  border: none;
+  color: white;
+  
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+  
+  height:60px;
+  width: 150px;
+  cursor: pointer;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+}
+#butt{
+font-family: cursive;
+background-color: #3333cc;
+  border: none;
+  color: white;
+
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+ 
+   height:60px;
+  width: 150px;
+  cursor: pointer;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+}
+#gumbi{
+	
+	width:330px;
+	height:60px;
+	margin: 0px auto;
+	
+}
